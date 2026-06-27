@@ -1,4 +1,4 @@
-# Backpropagation Visualizer
+# Backpropogation Visualizer
 
 Interactive neural network training visualizer showing gradient flow and weight updates in real time.
 
@@ -36,4 +36,4 @@ MIT
 
 ## Topics
 
-backpropagation, neural-networks, deep-learning, streamlit, python, machine-learning, visualization
+backpropogation, neural-networks, deep-learning, streamlit, python, machine-learning, visualization

@@ -5,7 +5,7 @@ from neural_network import NeuralNetwork
 from datasets import generate_dataset
 
 st.set_page_config(
-    page_title="Backpropagation Visualizer",
+    page_title="Backpropogation Visualizer",
     layout="wide",
     page_icon=None,
     initial_sidebar_state="expanded"
@@ -302,7 +302,7 @@ with st.sidebar:
         st.rerun()
 
 # Main content
-st.markdown("# Backpropagation Visualizer")
+st.markdown("# Backpropogation Visualizer")
 st.markdown('<div class="subheader-text">Interactive visualization of gradient propagation in feedforward neural networks.</div>', unsafe_allow_html=True)
 
 # Metrics row
